@@ -5,7 +5,7 @@ services:
     # volumes:
     #     - ~/volumes/jhipster/invoice/postgresql/:/var/lib/postgresql/data/
     environment:
-      - POSTGRES_USER=invoice
-      - POSTGRES_PASSWORD=Store3166
+      - POSTGRES_USER=AdminArqui
+      - POSTGRES_PASSWORD=AdminArqui12345
     ports:
       - 5432:5432
