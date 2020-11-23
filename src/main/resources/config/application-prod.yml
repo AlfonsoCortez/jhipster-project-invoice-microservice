@@ -40,7 +40,7 @@ spring:
       enabled: false
   datasource:
     type: com.zaxxer.hikari.HikariDataSource
-    url: jdbc:postgresql://localhost:5432/invoice2
+    url: jdbc:postgresql://localhost:5432/InvoiceService2
     username: postgres
     password: Jose3166
     hikari:
